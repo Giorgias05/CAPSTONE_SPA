@@ -6,7 +6,7 @@ import MyCarousel from "./components/MyCarousel";
 import MyJumbotron from "./components/MyJumbotron";
 import MyCard from "./components/MyCard";
 import MyFooter from "./components/MyFooter";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Prenotazioni from "./components/Prenotazioni";
 import PercorsoBenessere from "./components/PercorsoBenessere";
 import Massaggi from "./components/Massaggi";
@@ -21,10 +21,12 @@ import TrattamentoViso from "./components/TrattamentoViso.jsx"
 import FesteggiaConNoi from "./components/FesteggiaConNoi";
 import WeatherApp from "./components/WeatherApp";
 import Contactus from "./components/ContactUs";
+
 const App = () => {
-  return (
-    <Router>
+  return ( 
+    <div className="App">
         <MyNavbar />
+        <BrowserRouter> 
       <Routes>
         <Route
           path="/"
@@ -175,7 +177,8 @@ path="/TrattamentoViso"
           }
         />
       </Routes>
-    </Router>
+    </BrowserRouter>
+    </div>
   );
 };
 export default App;

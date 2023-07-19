@@ -58,7 +58,7 @@ function Prenotazioni() {
   };
   return (
     <Container>
-      <div>
+      <div className=" d-flex justify-content-center">
         {" "}
         <Col
           xs={12}
