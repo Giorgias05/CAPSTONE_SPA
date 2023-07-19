@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+  font-size:larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  background-color:rgb(230, 220, 208);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:black !important;
+  
+ 
+}
+
+/*carosello*/
+.carousel {
+  width: 1000px;
+height: 500px;
+  margin: 0 auto;
+  object-fit: cover;
+}
+.custom-image {
+  height: 300px;
+object-fit: cover;
+}
+/* Newsletter + Modal*/
+.news-letter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.news-letter-form {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 80px;
+  margin-block-end: 80px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.modal-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  border-radius: 8px;
+  border: none;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* FORM PRENOTAZIONE */
+Form {
+  max-width: 300px; 
+  margin: 0 auto; 
+}
+
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-prenota {
+  position: relative;
+  overflow: hidden;
+  background: #f3f2f0 !important;
+  border-radius: 58px !important;
+  width: 100px !important;
+}
+
+.modifica {
+  position: relative;
+  overflow: hidden;
+  border-radius: 58px !important;
+  width: 100px;
+
+}
+
+.btn-cancella{
+  position: relative;
+  overflow: hidden;
+  border-radius: 58px !important;
+  width: 100px;
+}
+
+.form-label {
+  font-weight: bold;
+  color: #0e0d0d;
+}
+
+.btn-dettagli {
+  position: relative;
+  overflow: hidden;
+  border-radius: 58px !important;
+  width: 100px;
+}
+
+/*card*/
+.equal-height {
+  height: 250px;
+  width: 250px;
+}
+
+/*carousel*/
+.carousel .carousel-image {
+  height: 500px;
+  object-fit: cover;
+}
