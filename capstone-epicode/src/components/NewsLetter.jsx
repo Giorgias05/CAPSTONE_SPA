@@ -22,15 +22,16 @@ const Newsletter = () => {
         <h2> Here Free Voucher! </h2>
         <hr />
         <h1>
-          ISCRIVITI PER
-          <br />
-          AVERE IL <br />
-          VOUCHER{" "}
+        ISCRIVITI ALLA NOSTRA NEWSLETTER
         </h1>
         <br />
-        *Scrivi la tua email, il tuo nome e la tua data di nascita e <br />
+      <h5> Per restare sempre aggiornato e non perdere l’occasione di vivere il benessere in tutte le sue espressioni. <br />
+<br />
+
+        Scrivi la tua email, il tuo nome e la tua data di nascita, <br />
+        <br />
         riceverai subito un VOUCHER dal valore di 10 euro per il tuo prossimo
-        acquisto in sede.
+        acquisto in sede. </h5>
         <br />
         <br />
         <Form onSubmit={handleSubmit} className="news.letter-form text-start">

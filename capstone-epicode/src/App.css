@@ -1,23 +1,18 @@
 .App {
-  background-color: white;
+  background-color:white;
   text-align: center;
   font-size:larger;
-  
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
-  
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,11 +21,9 @@
   font-size: calc(10px + 2vmin);
   
 }
-
 .App-link {
   color: #61dafb;
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -40,9 +33,19 @@
   }
 }
 
+ /*NAV*/
+ .MyNav {transition: transform 0.3s ease;
+}
+.MyNav:hover {
+  transform: scale(1.1);}
+
+
+/*body*/
 body {
   background-repeat: no-repeat;
   background-size: cover;
+  color:black !important;
+
 }
 
 /*carosello*/
@@ -52,10 +55,16 @@ height: 500px;
   margin: 0 auto;
   object-fit: cover;
 }
+.carousel .carousel-image {
+  height: 500px;
+  object-fit: cover;
+}
 .custom-image {
   height: 300px;
 object-fit: cover;
 }
+
+
 /* Newsletter + Modal*/
 .news-letter {
   display: flex;
@@ -72,11 +81,9 @@ object-fit: cover;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
-
 .modal-overlay {
   background-color: rgba(247, 236, 236, 0.5);
 }
-
 .modal-content {
   width: 400px;
   height: 200px;
@@ -96,14 +103,11 @@ Form {
   margin: 0 auto; 
 }
 
-
-
 .center {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .button-prenota {
   position: relative;
   overflow: hidden;
@@ -111,27 +115,22 @@ Form {
   border-radius: 58px !important;
   width: 100px !important;
 }
-
 .modifica {
   position: relative;
   overflow: hidden;
   border-radius: 58px !important;
   width: 100px;
-
 }
-
 .btn-cancella{
   position: relative;
   overflow: hidden;
   border-radius: 58px !important;
   width: 100px;
 }
-
 .form-label {
   font-weight: bold;
   color: #0e0d0d;
 }
-
 .btn-dettagli {
   position: relative;
   overflow: hidden;
@@ -140,15 +139,44 @@ Form {
 }
 
 /*card*/
-
-
- .card-image{
+.card-image{
   height: 300px;
   width: 100%;
   object-fit: cover;
- }
-/*carousel*/
-.carousel .carousel-image {
-  height: 500px;
-  object-fit: cover;
+  border-top-left-radius: 15px; 
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
+.MyCard {
+  transition: transform 0.3s ease;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  overflow: hidden;
+  background-color: transparent !important;
+}
+.MyCard:hover {
+  transform: scale(1.2);
+}
+.card-content {
+  padding: 20px;
+}
+
+/*footer*/
+.MyIcons {
+  transition: transform 0.3s ease;
+  border: 1px solid white;
+}
+.MyIcons:hover {
+  transform: scale(1.4);
+}
+.MyVoucher {transition: transform 0.3s ease;
+  border: 1px solid white;
+}
+.MyVoucher:hover {
+  transform: scale(1.1);
+}
+
+
+
+

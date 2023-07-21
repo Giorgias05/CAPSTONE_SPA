@@ -5,11 +5,12 @@ import { FaMapMarkerAlt, FaPhone, FaEnvelope, FaParking } from "react-icons/fa";
 export default function App() {
   return (
     <div className="mt-5">
-      <Container className="border text-center mb-4"> <br />
+      <Container className=" text-center mb-4"> <br />
       
-        <h3 className="mb-4">Contattaci</h3>
+        <h3 className="mb-4">CONTATTACI</h3>
         <Row>
           <Col lg={5} xs={12}>
+            <h5>DOVE SIAMO</h5>
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2994.384456051425!2d12.496365315239405!3d41.902783579219454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13258910538c2f8f%3A0x3e7b4c32a001af53!2sRome%2C%20Italy!5e0!3m2!1sen!2sca!4v1626444029895!5m2!1sen!2sca"
               className="img-fluid custom-image"
@@ -20,26 +21,26 @@ export default function App() {
           </Col>
           <Col xs={12} sm={12} md={8} lg={6}>
             <Row>
-              <Col md={9}>
+              <Col md={8}>
                 <Form>
                   <Form.Group as={Row} className="mb-2">
-                    <Form.Label column sm={4}>
-                      Nome
+                    <Form.Label column sm={12}>
+                      Nome*
                     </Form.Label>
-                    <Col sm={8}>
+                    <Col sm={12}>
                       <Form.Control type="text" id="form3FirstName" />
                     </Col>
                   </Form.Group>
                   <Form.Group as={Row} className="mb-4">
-                    <Form.Label column sm={4}>
-                      Indirizzo Email
+                    <Form.Label column sm={12}>
+                      Email*
                     </Form.Label>
-                    <Col sm={8}>
+                    <Col sm={12}>
                       <Form.Control type="email" id="form3Email" />
                     </Col>
                   </Form.Group>
                   <Form.Group className="mb-4">
-                    <Form.Label>Scrivi qui il tuo Messaggio</Form.Label>
+                    <Form.Label>Inserisci un messaggio*</Form.Label>
                     <Form.Control as="textarea" id="form3Textarea" rows={3} />
                   </Form.Group>
                   <Button variant="light" className="mb-4">

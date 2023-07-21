@@ -25,20 +25,20 @@ function MyFooter() {
             <div className="text-secondary">
               <p className="fs-6">Privacy & Cookie policy</p>
               <Link to="/NewsLetter">
-                <Button variant="light text-end">Offerta Voucher</Button>
+                <Button variant="light text-end MyVoucher">Offerta Voucher</Button>
               </Link>
             </div>
           </Col>
         </Row>
-        <Col sm={12} md={6} className="mb-5">
-          <div className="d-flex justify-content-end">
-            <div className="d-flex">
-              <p className="text-secondary fs-3">
+        <Col sm={12} md={6} lg={4} className="mb-5">
+          <div className=" d-flex justify-content-end">
+            <div className=" d-flex">
+              <p className="MyIcons  text-secondary fs-3">
                 <a href="https://www.facebook.com/" style={{ color: "gray" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="23"
-                    height="27"
+                    width="30"
+                    height="30"
                     fill="currentColor"
                     class="bi bi-facebook"
                     viewBox="0 0 16 16"
@@ -47,12 +47,12 @@ function MyFooter() {
                   </svg>
                 </a>
               </p>
-              <p className="text-secondary ms-4 fs-3">
+              <p className="MyIcons text-secondary ms-4 fs-3">
                 <a href="https://www.instagram.com/" style={{ color: "gray" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="23"
-                    height="27"
+                    width="30"
+                    height="30"
                     fill="currentColor"
                     class="bi bi-instagram"
                     viewBox="0 0 16 16"
@@ -61,12 +61,12 @@ function MyFooter() {
                   </svg>
                 </a>
               </p>
-              <p className="text-secondary ms-4 fs-3">
+              <p className="MyIcons text-secondary ms-4 fs-3">
                 <a href="https://www.twitter.com/" style={{ color: "gray" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="23"
-                    height="27"
+                    width="30"
+                    height="30"
                     fill="currentColor"
                     class="bi bi-twitter"
                     viewBox="0 0 16 16"
@@ -75,12 +75,12 @@ function MyFooter() {
                   </svg>
                 </a>
               </p>
-              <p className="text-secondary ms-4 fs-3">
+              <p className="MyIcons text-secondary ms-4 fs-3">
                 <a href="https://www.youtube.com/" style={{ color: "gray" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="23"
-                    height="27"
+                    width="30"
+                    height="30"
                     fill="currentColor"
                     class="bi bi-youtube"
                     viewBox="0 0 16 16"
@@ -89,15 +89,15 @@ function MyFooter() {
                   </svg>
                 </a>
               </p>
-              <p className="text-secondary ms-4 fs-3">
+              <p className="MyIcons  text-secondary ms-4 fs-3">
                 <a
                   href="https://github.com/Giorgias05"
                   style={{ color: "gray" }}
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="23"
-                    height="27"
+                    width="30"
+                    height="30"
                     fill="currentColor"
                     class="bi bi-github"
                     viewBox="0 0 16 16"
@@ -106,15 +106,15 @@ function MyFooter() {
                   </svg>
                 </a>
               </p>
-              <p className="text-secondary ms-4 fs-3">
+              <p className="MyIcons text-secondary ms-4 fs-3">
                 <a
                   href="https://www.linkedin.com/in/giorgia021/"
                   style={{ color: "gray" }}
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="23"
-                    height="27"
+                    width="30"
+                    height="30"
                     fill="currentColor"
                     class="bi bi-linkedin"
                     viewBox="0 0 16 16"
@@ -124,7 +124,7 @@ function MyFooter() {
                 </a>
               </p>
             </div>
-            </div><p className="ms-4 fs-7 text-end">&#169; 2023 - EPIC SPA</p>
+            </div><p className="ms-4 fs-8 text-center">&#169; 2023 - EPIC SPA</p>
         </Col>
       </div>
     </footer>

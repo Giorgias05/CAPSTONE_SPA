@@ -40,10 +40,10 @@ function MyJumbotron() {
           <br />
           <p className="text-center">
             <h4> ORARI DI APERTURA </h4> <br />
-            <h4>domenica - giovedì 09:00 - 23:00</h4> <br />
+            <h4>domenica - giovedì 09:00-23:00</h4> <br />
             <hr />
             <br />
-            <h4>venerdì - sabato 09:00 - 24:00 </h4> <br />
+            <h4>venerdì- sabato 09:00-24:00 </h4> <br />
           
           </p>
         </Col>

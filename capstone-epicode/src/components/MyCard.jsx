@@ -13,21 +13,20 @@ const MyCard = () => {
   return (
     <Row className="align-items-stretch">
       <Col sm={12} md={6} lg={4} className="mb-5">
-        <Card className="border-0"  >
+        <Card className=" MyCard border-0"  >
           <Card.Body>
-            <Card.Title>Percorso Benessere</Card.Title>
+            <Card.Title>PERCORSO BENESSERE</Card.Title>
             <Image
               src={Perspa}
               alt="percorso spa"
               className="card-image"
             />
             <Card.Text>
-              Percorso benessere senza <br />
-              limiti di tempo 
-              lunedì - domenica
+              Il nuovo Percorso benessere pensato per te  <br />
+              senza limiti di tempo 
             </Card.Text>
           </Card.Body>
-          <Card.Footer className="d-flex justify-content-center border-0 bg-white">
+          <Card.Footer className="d-flex justify-content-center border-0 bg-transparent">
             <Link to="/PercorsoBenessere">
               <Button variant="outline-secondary">SCOPRI</Button>
             </Link>
@@ -36,17 +35,17 @@ const MyCard = () => {
       </Col>
 
       <Col sm={12} md={6} lg={4} className="mb-5">
-        <Card className="border-0">
+        <Card className="MyCard border-0">
           <Card.Body>
-            <Card.Title>Massaggi</Card.Title>
+            <Card.Title>MASSAGGI</Card.Title>
             <Image
               src={Cabmas}
               alt="cabina massaggio"
               className="card-image"
             />
             <Card.Text>
-              Massaggi antistress, rivitalizzanti a scelta fra 30
-              o 75 minuti
+              Massaggi tradizionali antistress e <br />
+              rivitalizzanti a scelta fra 30 o 75 minuti
             </Card.Text>
           </Card.Body>
           <Card.Footer className="d-flex justify-content-center border-0  bg-white">
@@ -58,9 +57,9 @@ const MyCard = () => {
       </Col>
 
       <Col sm={12} md={6} lg={4} className="mb-5">
-        <Card className="border-0  ">
+        <Card className="MyCard border-0">
           <Card.Body>
-            <Card.Title>Sauna con vista</Card.Title>
+            <Card.Title>SAUNA CON VISTA</Card.Title>
             <Image
               src={Saunavista}
               alt="Sauna con vista"
@@ -68,7 +67,7 @@ const MyCard = () => {
             />
             <Card.Text>
               La sauna con vista lago offre un'esperienza <br />
-               di benessere unica
+              di benessere unica
             </Card.Text>
           </Card.Body>
           <Card.Footer className="d-flex justify-content-center border-0  bg-white">
@@ -80,9 +79,9 @@ const MyCard = () => {
       </Col>
 
       <Col sm={12} md={6} lg={4} className="mb-5">
-        <Card className="border-0 " >
+        <Card className="MyCard border-0" >
           <Card.Body className=" card-size">
-            <Card.Title>Piscine esterne</Card.Title>
+            <Card.Title>PISCINE ESTERNE</Card.Title>
             <Image
               src={Piscinaesterna1}
               alt="piscina giardino"
@@ -90,7 +89,7 @@ const MyCard = () => {
             />
             <Card.Text>
               Un luogo rilassante, <br />
-               rigenerante immerso nella natura
+              rigenerante immerso nella natura
             </Card.Text>
           </Card.Body>
           <Card.Footer className="d-flex justify-content-center border-0  bg-white">
@@ -102,17 +101,17 @@ const MyCard = () => {
       </Col>
 
       <Col sm={12} md={6} lg={4} className="mb-5 ">
-        <Card className="border-0 " >
+        <Card className="MyCard border-0 " >
           <Card.Body>
-            <Card.Title>Wellness Food</Card.Title>
+            <Card.Title>WELLNESS FOOD</Card.Title>
             <Image
               src={cibo}
               alt="Immagine piscina"
               className="card-image"
-
             />
             <Card.Text>
-              Una ricca pausa di gusto durante il tuo percorso benessere
+              Una ricca pausa di gusto durante <br />
+              il tuo percorso benessere
             </Card.Text>
           </Card.Body>
           <Card.Footer className="d-flex justify-content-center border-0  bg-white">
@@ -123,9 +122,9 @@ const MyCard = () => {
         </Card>
       </Col>
       <Col sm={12} md={6} lg={4} className="mb-5">
-        <Card className="border-0 ">
+        <Card className="MyCard border-0 ">
           <Card.Body>
-            <Card.Title>Ingresso serale</Card.Title>
+            <Card.Title>INGRESSO SERALE</Card.Title>
             <Image
               src={Piscinasera}
               alt="Piscina sera"
@@ -133,8 +132,8 @@ const MyCard = () => {
 
             />
             <Card.Text>
-              Ingresso serale, da lunedì a domenica <br />
-               compresi ponti e festività
+              L'Ingresso serale e il suo momento magico<br />
+              con le stelle riflesse sull'acqua
             </Card.Text>
           </Card.Body>
           <Card.Footer className="d-flex justify-content-center border-0  bg-white">
