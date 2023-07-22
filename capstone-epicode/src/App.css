@@ -1,7 +1,10 @@
 .App {
-  background-color:white;
+  background-image: url('./image/xsfondo.jpg');
   text-align: center;
-  font-size:larger;
+  font-size:large;
+  object-fit: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .App-logo {
   height: 40vmin;
@@ -34,24 +37,28 @@
 }
 
  /*NAV*/
- .MyNav {transition: transform 0.3s ease;
-}
+ .MyNav {transition: transform 0.3s ease; }
 .MyNav:hover {
   transform: scale(1.1);}
 
 
 /*body*/
 body {
-  background-repeat: no-repeat;
   background-size: cover;
+  background-repeat: no-repeat;
   color:black !important;
-
 }
 
+
+ ul{
+  list-style-type: none ;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
 /*carosello*/
 .carousel {
-  width: 1000px;
-height: 500px;
+  height: 500px;
   margin: 0 auto;
   object-fit: cover;
 }
@@ -165,7 +172,6 @@ Form {
 /*footer*/
 .MyIcons {
   transition: transform 0.3s ease;
-  border: 1px solid white;
 }
 .MyIcons:hover {
   transform: scale(1.4);

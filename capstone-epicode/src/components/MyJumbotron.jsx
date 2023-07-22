@@ -11,7 +11,7 @@ function MyJumbotron() {
         <Col md={12} className="text-center"> <br />
         <br />
           <h1>Benvenuto nel benessere</h1>
-          <p className="text-secondary fs-05 my-5">
+          <p className="text-dark fs-03 my-4">
             Vieni a scoprire la meraviglia di un luogo dove il tempo sembra
             fermarsi. Il nostro centro ti offre un'oasi di relax e magia, <br />
             dove puoi immergerti completamente e lasciarti trasportare in una
@@ -36,14 +36,14 @@ function MyJumbotron() {
             className="img-fluid custom-image"
           />
         </Col>
-        <Col md={4} className="text-secondary fs-03 my-0">
+        <Col md={4} className="text- fs-03 my-0">
           <br />
           <p className="text-center">
             <h4> ORARI DI APERTURA </h4> <br />
             <h4>domenica - giovedì 09:00-23:00</h4> <br />
             <hr />
             <br />
-            <h4>venerdì- sabato 09:00-24:00 </h4> <br />
+            <h4>venerdì - sabato 09:00-24:00 </h4> <br />
           
           </p>
         </Col>

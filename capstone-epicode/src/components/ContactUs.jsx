@@ -5,7 +5,7 @@ import { FaMapMarkerAlt, FaPhone, FaEnvelope, FaParking } from "react-icons/fa";
 export default function App() {
   return (
     <div className="mt-5">
-      <Container className=" text-center mb-4"> <br />
+      <Container className="text-center mb-4"> <br />
       
         <h3 className="mb-4">CONTATTACI</h3>
         <Row>
@@ -51,26 +51,26 @@ export default function App() {
               <Col md={3} className=" text-center">
                 <ul className="list-unstyled">
                   <li>
-                    <FaMapMarkerAlt size={35} className="text-secondary" />
+                    <FaMapMarkerAlt size={35} className="text-dark" />
                     <p>
                       <small>Roma, RM, Italy</small>
                     </p>
                   </li>
                   <li>
-                    <FaParking size={35} className="text-secondary" />
+                    <FaParking size={35} className="text-dark" />
                     <p>
                       <small>Free Park in Loco</small>
                     </p>
                   </li>
 
                   <li>
-                    <FaPhone size={35} className="text-secondary" />
+                    <FaPhone size={35} className="text-dark" />
                     <p>
                       <small>+39061234567</small>
                     </p>
                   </li>
                   <li>
-                    <FaEnvelope size={35} className="text-secondary" />
+                    <FaEnvelope size={35} className="text-dark" />
                     <p>
                       <small>epicspa@io.com</small>
                     </p>

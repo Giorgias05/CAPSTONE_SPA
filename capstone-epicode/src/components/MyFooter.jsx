@@ -8,33 +8,34 @@ function MyFooter() {
       <div className="container">
         <Row className="px-md-4">
           <Col sm={12} md={6} lg={4} className="mb-5">
-            <div className="text-secondary">
+            <div className="text- dark">
               <p className="fs-6">Lavora con noi</p>
               <p className="fs-6">Regolamento spa</p>
               <p className="fs-6">Lavora con noi</p>
             </div>
           </Col>
           <Col sm={12} md={6} lg={4} className="mb-5">
-            <div className="text-secondary">
+            <div className="text-dark">
               <p className="fs-6">Meeting ed eventi</p>
               <p className="fs-6">Supporto clienti</p>
               <p className="fs-6">Termini e Condizioni</p>
             </div>
           </Col>
           <Col sm={12} md={6} lg={4} className="mb-5">
-            <div className="text-secondary">
+            <div className="text-dark">
               <p className="fs-6">Privacy & Cookie policy</p>
               <Link to="/NewsLetter">
-                <Button variant="light text-end MyVoucher">Offerta Voucher</Button>
+                <Button variant="outline-secondary text-end MyVoucher">Offerta Voucher</Button>
               </Link>
             </div>
           </Col>
         </Row>
-        <Col sm={12} md={6} lg={4} className="mb-5">
+        <Col sm={12} md={6} lg={4} className="mb-0">
           <div className=" d-flex justify-content-end">
             <div className=" d-flex">
               <p className="MyIcons  text-secondary fs-3">
-                <a href="https://www.facebook.com/" style={{ color: "gray" }}>
+                <a href="https://www.facebook.com/"
+                  style={{ color: "black" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="30"
@@ -48,7 +49,8 @@ function MyFooter() {
                 </a>
               </p>
               <p className="MyIcons text-secondary ms-4 fs-3">
-                <a href="https://www.instagram.com/" style={{ color: "gray" }}>
+                <a href="https://www.instagram.com/" 
+                style={{ color: "black" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="30"
@@ -62,7 +64,8 @@ function MyFooter() {
                 </a>
               </p>
               <p className="MyIcons text-secondary ms-4 fs-3">
-                <a href="https://www.twitter.com/" style={{ color: "gray" }}>
+                <a href="https://www.twitter.com/"
+                  style={{ color: "black" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="30"
@@ -76,7 +79,8 @@ function MyFooter() {
                 </a>
               </p>
               <p className="MyIcons text-secondary ms-4 fs-3">
-                <a href="https://www.youtube.com/" style={{ color: "gray" }}>
+                <a href="https://www.youtube.com/" 
+                  style={{ color: "black" }}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="30"
@@ -92,7 +96,7 @@ function MyFooter() {
               <p className="MyIcons  text-secondary ms-4 fs-3">
                 <a
                   href="https://github.com/Giorgias05"
-                  style={{ color: "gray" }}
+                  style={{ color: "black" }}
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -109,7 +113,7 @@ function MyFooter() {
               <p className="MyIcons text-secondary ms-4 fs-3">
                 <a
                   href="https://www.linkedin.com/in/giorgia021/"
-                  style={{ color: "gray" }}
+                  style={{ color: "black" }}
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

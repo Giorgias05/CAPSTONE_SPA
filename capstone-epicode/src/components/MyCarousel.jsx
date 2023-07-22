@@ -19,11 +19,15 @@ import festa from "../image/Festa.jpg";
 import Relax from "../image/relax.jpg";
 import Img10 from "../image/img10.jpg";
 import Img11 from "../image/img11.jpg";
+import { Container, Row, Col } from "react-bootstrap";
 
 
 function CarouselFadeExample() {
   return (
-    <Carousel
+    <Container>
+<Row>
+<Col>
+<Carousel
       className
       fluid="w-100 mx-auto mt-5 mb-5 carousel-home"
       nextIcon={null}
@@ -182,6 +186,11 @@ function CarouselFadeExample() {
         />
       </Carousel.Item>
     </Carousel>
+
+</Col>
+</Row>
+    </Container>
+    
   );
 }
 export default CarouselFadeExample;

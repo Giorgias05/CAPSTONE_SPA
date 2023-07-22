@@ -27,13 +27,12 @@ function IngressoSerale() {
           giornata e rigenerare mente e corpo. <br />
           La nostra spa offre un'incantevole PISCINA SERALE, dove potrete
           immergervi in un'atmosfera magica e rilassante. <br />
-           Le candele a bordo piscina,
-          le luci soffuse e l'acqua calda creano una sensazione di tranquillità
-          mentre vi godete il bagno notturno con il nostro <br /> fantastico
-          "Aperi-Terme" sotto il cielo stellato.
+          Le candele a bordo piscina, le luci soffuse e l'acqua calda creano una
+          sensazione di tranquillità mentre vi godete il bagno notturno con il
+          nostro <br /> fantastico "Aperi-Terme" sotto il cielo stellato.
         </p>
         <div>
-          <p className="text-start">
+          <p className="text-center">
             <br />
             <br />
             <h1>INFO UTILI</h1>
@@ -52,7 +51,6 @@ function IngressoSerale() {
         </div>
       </Row>
       <br />
- 
     </div>
   );
 }

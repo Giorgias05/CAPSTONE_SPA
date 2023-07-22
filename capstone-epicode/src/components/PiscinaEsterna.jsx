@@ -19,8 +19,8 @@ function PiscinaEsterna() {
           />
         </Col>
         <br />
-        <br />
-        <h2 className="text-center">
+       
+        <h2 className="text-center"> <br />
           {" "}
           Piscine, Vasche e Cascate Immerse Nella Natura
         </h2>
@@ -42,18 +42,20 @@ function PiscinaEsterna() {
           <br />
           <h1>INFO UTILI</h1>
           E' necessario prenotare per le piscine esterne con almeno 24 ore
-          d'anticipo. Si consiglia, inoltre, di presentarsi presso il centro
-          benessere con almeno 30 minuti di anticipo rispetto all'orario scelto.
-          E' necessario portare con sé solo il costume da bagno, noi ti forniamo
-          un accappatoio, un telo ed un paio di ciabatte.
+          d'anticipo.  <br />Si consiglia, inoltre, di presentarsi  <br />
+          presso il centro  benessere con almeno 30 minuti di anticipo rispetto all'orario scelto. <br />
+          E' necessario portare con sé solo il costume da bagno,
+          noi ti forniamo un accappatoio,<br />
+           un telo ed un paio di ciabatte.
           <br />
           Validità: da lunedì a domenica compresi festivi e ponti.
           <br />
-          NON E' CONSENTITO l’ingresso ai minori di 14 anni. *Prenota ora e paga
+          NON E' CONSENTITO l’ingresso ai minori di 14 anni.
+          <hr /> *Prenota ora e paga
           comodamente in sede
         </p>
       </Row>
-      <br />
+     
     </div>
   );
 }

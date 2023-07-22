@@ -1,10 +1,10 @@
-package com.alessio;
+package com.giorgia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CapstoneAutoApplicationTests {
+class CapstoneEpicSpaApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -30,7 +30,7 @@ function PercorsoBenessere() {
         </p>
         <div>
           <br />
-          <p className="text-start">
+          <p className="text-center">
             <h1>INFO UTILI</h1>
             E' necessario prenotare il trattamento con almeno 48 ore d'anticipo. <br />
             Si consiglia di presentarsi presso il centro benessere con almeno 30
@@ -40,10 +40,11 @@ function PercorsoBenessere() {
             <br />
             Validità: dal lunedì alla domenica compresi festivi e ponti
             <br />
+            <hr />
             *Prenota ora e paga comodamente in sede</p>
         </div>
       </Row>
-      <br />
+      
     </div>
   );
 }

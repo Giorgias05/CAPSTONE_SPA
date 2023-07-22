@@ -62,7 +62,7 @@ function FesteggiaConNoi() {
         </div>
       </Row>
       <br />
-      <Prenotazioni />
+     
     </div>
   );
 }

@@ -51,7 +51,7 @@ function Massaggi() {
           <br />
           <br />
           <div>
-            <p className="text-start">
+            <p className="text-center"> <hr />
               <br />
               <h1>INFO UTILI</h1>
               E' necessario prenotare il trattamento con almeno 48 ore
@@ -63,7 +63,8 @@ function Massaggi() {
               <br />
               Validità: dal lunedì alla domenica compresi festivi e prefestivi.{" "}
               <br />
-              NON E' CONSENTITO l’ingresso ai minori di 14 anni. <br /> *Prenota
+              NON E' CONSENTITO l’ingresso ai minori di 14 anni. <br />
+              <hr /> *Prenota
               ora e paga comodamente in sede
             </p>
           </div>

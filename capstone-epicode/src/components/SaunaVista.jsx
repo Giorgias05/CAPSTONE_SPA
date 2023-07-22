@@ -36,7 +36,7 @@ function SaunaVista() {
         </p>
         <br />
         <div>
-          <p className="text-start">
+          <p className="text-center">
             <br />
             <br />
             <h1>INFO UTILI</h1>
@@ -47,6 +47,7 @@ function SaunaVista() {
             ponti.
             <br />
             NON E' CONSENTITO l’ingresso ai minori di 14 anni. <br />
+            <hr />
             *Prenota ora e paga comodamente in sede
           </p>
         </div>

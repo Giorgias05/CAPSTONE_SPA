@@ -48,7 +48,7 @@ const MyCard = () => {
               rivitalizzanti a scelta fra 30 o 75 minuti
             </Card.Text>
           </Card.Body>
-          <Card.Footer className="d-flex justify-content-center border-0  bg-white">
+          <Card.Footer className="d-flex justify-content-center border-0 bg-transparent">
             <Link to="/Massaggi">
               <Button variant="outline-secondary">SCOPRI</Button>
             </Link>
@@ -70,7 +70,7 @@ const MyCard = () => {
               di benessere unica
             </Card.Text>
           </Card.Body>
-          <Card.Footer className="d-flex justify-content-center border-0  bg-white">
+          <Card.Footer className="d-flex justify-content-center border-0 bg-transparent ">
             <Link to="/SaunaVista">
               <Button variant="outline-secondary">SCOPRI</Button>
             </Link>
@@ -92,7 +92,7 @@ const MyCard = () => {
               rigenerante immerso nella natura
             </Card.Text>
           </Card.Body>
-          <Card.Footer className="d-flex justify-content-center border-0  bg-white">
+          <Card.Footer className="d-flex justify-content-center border-0 bg-transparent ">
             <Link to="/PiscinaEsterna">
               <Button variant="outline-secondary">SCOPRI</Button>
             </Link>
@@ -114,7 +114,7 @@ const MyCard = () => {
               il tuo percorso benessere
             </Card.Text>
           </Card.Body>
-          <Card.Footer className="d-flex justify-content-center border-0  bg-white">
+          <Card.Footer className="d-flex justify-content-center border-0 bg-transparent ">
             <Link to="/WellnessFood">
               <Button variant="outline-secondary">SCOPRI</Button>
             </Link>
@@ -136,7 +136,7 @@ const MyCard = () => {
               con le stelle riflesse sull'acqua
             </Card.Text>
           </Card.Body>
-          <Card.Footer className="d-flex justify-content-center border-0  bg-white">
+          <Card.Footer className="d-flex justify-content-center border-0 bg-transparent ">
             <Link to="/IngressoSerale">
               <Button variant="outline-secondary">SCOPRI</Button>
             </Link>
