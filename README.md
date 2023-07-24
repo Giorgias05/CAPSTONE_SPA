@@ -53,4 +53,14 @@ Se hai domande, suggerimenti, o hai bisogno di assistenza riguardo a 🌺EPIC SP
        alt="https://www.linkedin.com/in/giorgia021/" height="30" width="50" />
   </a>
 <br>
--  GitHub : https://github.com/Giorgias05
+<a href=" https://github.com/Giorgias05 " target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="https://github.com/Giorgias05" height="30" width="50" />
+  </a>
+
+
+
+
+
+
+
