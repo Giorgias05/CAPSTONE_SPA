@@ -26,8 +26,9 @@ Questo progetto è stato sviluppato utilizzando React, una libreria JavaScript m
   <br>
   
 <h1> Come iniziare👩🏼‍💻 </h1> <br>
-Per avviare il progetto in ambiente di sviluppo, segui i passaggi seguenti: <br>
--   assicurati di avere installato Node.js sul tuo computer <br>
+Per avviare il progetto in ambiente di sviluppo, segui i passaggi seguenti. <br>
+
+-  assicurati di avere installato Node.js sul tuo computer <br>
 -  Clona il repository da GitHub utilizzando il comando seguente: <br>
 -  git clone https://github.com/Giorgias05/CAPSTONE_SPA.git <br>
 
