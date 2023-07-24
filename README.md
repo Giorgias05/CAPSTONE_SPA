@@ -19,28 +19,27 @@ Questo progetto è stato sviluppato utilizzando React, una libreria JavaScript m
 <br>
   <h1> Tecnologie Utilizzate Back end⚙️ </h1> <br>
   
- - Linguaggio di programmazione: [Java]
- - Ambiente di Sviluppo: [Eclipse]
- - Framework: [Spring - Springboot]
- -Database: [PostgreSQL]
+-  Linguaggio di programmazione: [Java]
+-  Ambiente di Sviluppo: [Eclipse]
+-  Framework: [Spring - Springboot]
+-  Database: [PostgreSQL]
   <br>
   
 <h1> Come iniziare👩🏼‍💻 </h1> <br>
 Per avviare il progetto in ambiente di sviluppo, segui i passaggi seguenti: <br>
- - assicurati di avere installato Node.js sul tuo computer <br>
- - Clona il repository da GitHub utilizzando il comando seguente: <br>
-
+-  assicurati di avere installato Node.js sul tuo computer <br>
+-  Clona il repository da GitHub utilizzando il comando seguente: <br>
 - git clone https://github.com/Giorgias05/CAPSTONE_SPA.git <br>
 
-Entra nella cartella del progetto: <br>
+-  Entra nella cartella del progetto: <br>
 cd capstone-epicode <br>
 
-Installa le dipendenze necessarie con npm: <br>
--npm install react-bootstrap <br>
--npm install react-icons <br>
+- Installa le dipendenze necessarie con npm: <br>
+ npm install react-bootstrap <br>
+npm install react-icons <br>
 
-Avvia l'app in modalità sviluppo: <br>
--npm start <br>
+- Avvia l'app in modalità sviluppo: <br>
+ npm start <br>
 a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://localhost:3000. <br>
 
 
@@ -48,6 +47,6 @@ a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://
 <h1> Contattami </h1>
 Se hai domande, suggerimenti, o hai bisogno di assistenza riguardo a 🌺EPIC SPA 🌺 non esitare a contattarmi!
 <br> 
- - LinkedIn : https://www.linkedin.com/in/giorgia021/
+- LinkedIn : https://www.linkedin.com/in/giorgia021/
 <br>
 - GitHub : https://github.com/Giorgias05
