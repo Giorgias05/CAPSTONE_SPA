@@ -9,8 +9,9 @@ Concedetevi il dono prezioso del benessere, avvolti da un ambiente incantevole e
  </p> 
  <br>
 <h1> Funzionalità 💻 </h1> <br>
-L'applicazione EPIC SPA presenta le seguenti funzionalità:
-- Prenotazione dei  vari servizi offerti: percorsi benessere, massaggi, sauna, piscine, ingressi serali 📆
+
+L'applicazione EPIC SPA presenta le seguenti funzionalità: <br>
+- Prenotazione dei  vari servizi offerti: percorsi benessere, massaggi, sauna, piscine, ingressi serali 📆 <br>
 -  Iscrizione alla newsletter 📩
 <br>
 <h1>Tecnologie utilizzate Front end ⚙️</h1>
