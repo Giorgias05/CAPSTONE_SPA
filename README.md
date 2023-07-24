@@ -1,26 +1,26 @@
 # CAPSTONE_EPICODE <br>
  <h1> 🌺 EPIC SPA🌺 </h1> <br>
- 
- <p> Benvenuti in Epic Spa, <br>
-Un'oasi di puro relax immersa nella natura, dedicata alle vostre giornate di puro benessere. Con la nostra varietà di percorsi benessere, trattamenti e massaggi potrete scegliere quello che meglio si adatta alle vostre esigenze, rigenerando corpo e mente. I nostri trattamenti personalizzati per il corpo e  per il viso vi faranno sentire super coccolati e rivitalizzati. Il nostro team di esperti professionisti è pronto a prendersi cura di voi. <br> 
-Per completare l'esperienza, vi invitiamo a concedervi momenti di puro piacere con i nostri massaggi dove  troverete il trattamento perfetto per le vostre esigenze. Inoltre, per chi desidera vivere la magia di serate indimenticabili, gli ingressi serali al nostro Epic Spa vi regaleranno momenti di pace e rigenerazione sotto le stelle. <br>  
- Unitevi a noi, all'Epic Spa e regalatevi il dono del benessere, immersi in un ambiente incantevole e un'atmosfera accogliente, dove il vostro relax è la nostra priorità. Vi aspettiamo per offrirvi un'esperienza EPICA.
+ <p>Benvenuti nel meraviglioso mondo di Epic Spa! <br>
+Un'oasi di totale relax immersa nella natura, ideale per trascorrere giornate dedicate al vostro benessere. Con la vasta gamma di percorsi benessere, trattamenti e massaggi personalizzati, potrete scegliere ciò che meglio si adatta alle vostre necessità, rigenerando completamente corpo e mente. Il team di esperti professionisti è pronto ad accogliervi e prendersi cura di voi in modo eccezionale.
+<br>
+Vivrete momenti di vero piacere con i vari tipi di massaggi, ognuno pensato per offrirvi un trattamento perfetto e unico in base alle vostre preferenze. Per coloro che desiderano vivere la magia di serate indimenticabili, vi proponiamo gli ingressi serali al nostro Epic Spa, dove potrete godervi momenti di pace e rigenerazione sotto le stelle.
+<br>
+Concedetevi il dono prezioso del benessere, avvolti da un ambiente incantevole e un'atmosfera accogliente, dove il vostro relax è la nostra priorità. Non vediamo l'ora di offrirvi un'esperienza veramente EPICA 🌺🚀
  </p> 
  <br>
-<h1> Funzionalità 💻 </h1>
+<h1> Funzionalità 💻 </h1> <br>
 L'applicazione EPIC SPA presenta le seguenti funzionalità:
-- Prenotazione dei  vari servizi offerti dalla spa 📆
--  Iscrizione alla newsletter📩
+- Prenotazione dei  vari servizi offerti: percorsi benessere, massaggi, sauna, piscine, ingressi serali 📆
+-  Iscrizione alla newsletter 📩
 <br>
-
 <h1>Tecnologie utilizzate Front end ⚙️</h1>
 Questo progetto è stato sviluppato utilizzando React, una libreria JavaScript molto utilizzata per la creazione di interfacce utente reattive e dinamiche. Ho utilizzato create-react-app per impostare rapidamente la struttura di base del progetto. La grafica è stata realizzata con l' uso di React Bootstrap.
 <br>
   <h1> Tecnologie Utilizzate Back end⚙️ </h1> <br>
   
  - Linguaggio di programmazione: [Java]
- - Ambiente di Sviluppo: [Eclipse IDE]
- - Framework: [Spring,Springboot]
+ - Ambiente di Sviluppo: [Eclipse]
+ - Framework: [Spring - Springboot]
  -Database: [PostgreSQL]
   <br>
   
@@ -40,7 +40,9 @@ Installa le dipendenze necessarie con npm:
 
 Avvia l'app in modalità sviluppo:
 -npm start
-a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://localhost:3000.
+a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://localhost:3000. <br>
+
+
 <br>
 <h1> Contattami </h1>
 Se hai domande, suggerimenti, o hai bisogno di assistenza riguardo a 🌺EPIC SPA 🌺 non esitare a contattarmi!
