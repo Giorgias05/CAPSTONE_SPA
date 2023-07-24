@@ -1,4 +1,4 @@
-# CAPSTONE_<br>
+# CAPSTONE_EPICODE <br>
  <h1> 🌺 EPIC SPA🌺 </h1> <br>
  
  <p> Benvenuti in Epic Spa, <br>
@@ -7,7 +7,7 @@ Per completare l'esperienza, vi invitiamo a concedervi momenti di puro piacere c
  Unitevi a noi, all'Epic Spa e regalatevi il dono del benessere, immersi in un ambiente incantevole e un'atmosfera accogliente, dove il vostro relax è la nostra priorità. Vi aspettiamo per offrirvi un'esperienza EPICA.
  </p> 
  <br>
-<h1> Funzionalità 💻 </h1
+<h1> Funzionalità 💻 </h1>
 L'applicazione EPIC SPA presenta le seguenti funzionalità:
 - Prenotazione dei  vari servizi offerti dalla spa 📆
 -  Iscrizione alla newsletter📩
@@ -44,7 +44,7 @@ a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://
 <br>
 <h1> Contattami </h1>
 Se hai domande, suggerimenti, o hai bisogno di assistenza riguardo a 🌺EPIC SPA 🌺 non esitare a contattarmi!
-<b> 
+<br> 
  - LinkedIn : https://www.linkedin.com/in/giorgia021/
 
 - GitHub : https://github.com/Giorgias05
