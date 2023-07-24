@@ -45,9 +45,12 @@ a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://
 
 
 <br>
-<h1> Contattami </h1>
+<h1> Contattami 🙋🏼‍♀️ </h1>
 Se hai domande, suggerimenti, o hai bisogno di assistenza riguardo a 🌺EPIC SPA 🌺 non esitare a contattarmi!
 <br> 
--  LinkedIn : https://www.linkedin.com/in/giorgia021/
+<a href="https://www.linkedin.com/in/giorgia021/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="https://www.linkedin.com/in/giorgia021/" height="30" width="50" />
+  </a>
 <br>
 -  GitHub : https://github.com/Giorgias05
