@@ -34,11 +34,11 @@ Per avviare il progetto in ambiente di sviluppo, segui i passaggi seguenti: <br>
 -  Entra nella cartella del progetto: <br>
 cd capstone-epicode <br>
 
-- Installa le dipendenze necessarie con npm: <br>
+-  Installa le dipendenze necessarie con npm: <br>
  npm install react-bootstrap <br>
 npm install react-icons <br>
 
-- Avvia l'app in modalità sviluppo: <br>
+-  Avvia l'app in modalità sviluppo: <br>
  npm start <br>
 a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://localhost:3000. <br>
 
@@ -47,6 +47,6 @@ a questo punto si aprirà una nuova pagina sul tuo browser all'indirizzo http://
 <h1> Contattami </h1>
 Se hai domande, suggerimenti, o hai bisogno di assistenza riguardo a 🌺EPIC SPA 🌺 non esitare a contattarmi!
 <br> 
-- LinkedIn : https://www.linkedin.com/in/giorgia021/
+-  LinkedIn : https://www.linkedin.com/in/giorgia021/
 <br>
-- GitHub : https://github.com/Giorgias05
+-  GitHub : https://github.com/Giorgias05
